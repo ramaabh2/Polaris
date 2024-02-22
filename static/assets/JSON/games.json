@@ -36,9 +36,19 @@
     "image": "/cdn/alienhominid/alienhominid.jpg"
   },
   {
+    "name": "Alto's Odyssey",
+    "target": "https://nowgg.nl/apps/noodlecake-inc/5990/altos-odyssey.html",
+    "image": "https://cdn.jim-nielsen.com/ios/512/altos-odyssey-2018-08-02.png"
+  },
+  {
     "name": "Amidst The Clouds",
     "target": "/cdn/amidst-the-clouds/index.html",
     "image": "/cdn/amidst-the-clouds/splash.png"
+  },
+  {
+    "name": "Aquapark.io",
+    "target": "/cdn/3kh0/aquapark-slides/index.html",
+    "image": "https://teen.media/assets/aqua.jpeg"
   },
   {
     "name": "Archery World Tour",
@@ -57,7 +67,7 @@
   },
   {
     "name": "Asphalt Retro",
-    "target": "https://html5.gamedistribution.com/2c122cee7ef04222a962449e32a34e98/?gd_sdk_referrer_url=https://gamedistribution.com/games/asphalt-retro",
+    "target": "//html5.gamedistribution.com/rvvASMiM/2c122cee7ef04222a962449e32a34e98/?gd_sdk_referrer_url=https://gamedistribution.com/games/asphalt-retro",
     "image": "/cdn/images/asr.jpg"
   },
   {
@@ -82,12 +92,12 @@
   },
   {
     "name": "Basket Random",
-    "target": "https://html5.gamedistribution.com/bf1268dccb5d43e7970bb3edaa54afc8/?gd_sdk_referrer_url=https://gamedistribution.com/games/basket-random",
+    "target": "//html5.gamedistribution.com/rvvASMiM/bf1268dccb5d43e7970bb3edaa54afc8/?gd_sdk_referrer_url=https://gamedistribution.com/games/basket-random",
     "image": "https://img.gamedistribution.com/bf1268dccb5d43e7970bb3edaa54afc8-512x512.jpeg"
   },
   {
     "name": "Basketball Stars",
-    "target": "https://html5.gamedistribution.com/69d78d071f704fa183d75b4114ae40ec/?gd_sdk_referrer_url=https://gamedistribution.com/games/basketball-stars",
+    "target": "//html5.gamedistribution.com/rvvASMiM/69d78d071f704fa183d75b4114ae40ec/?gd_sdk_referrer_url=https://gamedistribution.com/games/basketball-stars",
     "image": "https://img.gamedistribution.com/69d78d071f704fa183d75b4114ae40ec-512x512.jpeg"
   },
   {
@@ -102,7 +112,7 @@
   },
   {
     "name": "BitLife",
-    "target": "https://html5.gamedistribution.com/rvvASMiM/2e44fb60fd3f4606b1b06c17a2b9d60d/index.html",
+    "target": "//html5.gamedistribution.com/rvvASMiM/rvvASMiM/2e44fb60fd3f4606b1b06c17a2b9d60d/index.html",
     "image": "https://play-lh.googleusercontent.com/fUM-UyywXxjC8soxAZdIlxJrlRRXmql8wkE426SHzft4lJycSKVd2jCYQQX1BEG9Xw=w240-h480-rw"
   },
   {
@@ -162,7 +172,7 @@
   },
   {
     "name": "COD Mobile",
-    "target": "https://now.gg/play/activision-publishing-inc/7935/call-of-duty.html", 
+    "target": "https://nowgg.nl/play/activision-publishing-inc/7935/call-of-duty.html",
     "image": "https://static.wikia.nocookie.net/callofduty/images/f/f4/App_Icon_CODM_Global.jpg/revision/latest?cb=20200507033012",
     "popular": true
   },
@@ -228,13 +238,13 @@
   },
   {
     "name": "Fortnite",
-    "target": "https://now.gg/play/epic-games/7308/fortnite",
+    "target": "https://nowgg.nl/play/epic-games/7308/fortnite",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Fortnite_F_lettermark_logo.png",
     "popular": true
   },
   {
     "name": "Fireboy and Watergirl",
-    "target": "https://html5.gamedistribution.com/a55c9cc9c21e4fc683c8c6857f3d0c75/?gd_sdk_referrer_url=https://gamedistribution.com/games/fireboy-and-watergirl-1-forest-temple",
+    "target": "//html5.gamedistribution.com/rvvASMiM/a55c9cc9c21e4fc683c8c6857f3d0c75/?gd_sdk_referrer_url=https://gamedistribution.com/games/fireboy-and-watergirl-1-forest-temple",
     "image": "https://img.gamedistribution.com/a55c9cc9c21e4fc683c8c6857f3d0c75-512x512.jpeg"
   },
   {
@@ -254,7 +264,7 @@
   },
   {
     "name": "Genshin Impact",
-    "target": "https://now.gg/play/cognosphere-pte-ltd-/1773/genshin-impact.html",
+    "target": "https://nowgg.nl/play/cognosphere-pte-ltd-/1773/genshin-impact.html",
     "image": "https://cdn2.steamgriddb.com/icon_thumb/73e5080f0f3804cb9cf470a8ce895dac.png"
   },
   {
@@ -289,7 +299,7 @@
   },
   {
     "name": "Janissary Battles",
-    "target": "https://html5.gamedistribution.com/8b55f4f729be4e70b6155f27d2e04690/?gd_sdk_referrer_url=https://gamedistribution.com/games/janissary-battles",
+    "target": "//html5.gamedistribution.com/rvvASMiM/8b55f4f729be4e70b6155f27d2e04690/?gd_sdk_referrer_url=https://gamedistribution.com/games/janissary-battles",
     "image": "/cdn/images/janissary.png"
   },
   {
@@ -329,7 +339,7 @@
   },
   {
     "name": "Melon Sandbox",
-    "target": "https://now.gg/play/playducky/7199/melon-sandbox.html",
+    "target": "https://nowgg.nl/play/playducky/7199/melon-sandbox.html",
     "image": "https://play-lh.googleusercontent.com/6q7J7_wky8t9gMihsZsvmKAIvfJ1h1gen2SwakrzN7OGigFFN2_VUycZBaOTn2Qs6_E"
   },
   {
@@ -385,7 +395,7 @@
   },
   {
     "name": "osu!",
-    "target": "https://skoolgq.github.io/skool-osu",
+    "target": "/cdn/3kh0/osu/index.html",
     "image": "/cdn/images/osu.png"
   },
   {
@@ -441,7 +451,7 @@
   },
   {
     "name": "Roblox",
-    "target": "https://now.gg/play/roblox-corporation/5349/roblox",
+    "target": "https://nowgg.nl/play/roblox-corporation/5349/roblox",
     "image": "/cdn/images/roblox.png",
     "popular": true
   },
@@ -457,7 +467,7 @@
   },
   {
     "name": "Rotate",
-    "target": "https://html5.gamedistribution.com/0faa4468d18e4f7aa2e0161b4fefa193/?gd_sdk_referrer_url=https://gamedistribution.com/games/rotate",
+    "target": "//html5.gamedistribution.com/rvvASMiM/0faa4468d18e4f7aa2e0161b4fefa193/?gd_sdk_referrer_url=https://gamedistribution.com/games/rotate",
     "image": "https://img.gamedistribution.com/0faa4468d18e4f7aa2e0161b4fefa193-512x512.jpeg"
   },
   {
@@ -482,24 +492,19 @@
   },
   {
     "name": "Soccer Random",
-    "target": "https://html5.gamedistribution.com/308d826f20034d7b972f25258c8d0a44/?gd_sdk_referrer_url=https://gamedistribution.com/games/soccer-random",
+    "target": "//html5.gamedistribution.com/rvvASMiM/308d826f20034d7b972f25258c8d0a44/?gd_sdk_referrer_url=https://gamedistribution.com/games/soccer-random",
     "image": "https://img.gamedistribution.com/308d826f20034d7b972f25258c8d0a44-512x512.jpeg"
   },
   {
     "name": "Stickman Archero Fight",
-    "target": "https://html5.gamedistribution.com/rvvASMiM/3f4c166817ad4fd4b5b05d9adba22fcd/?gd_sdk_referrer_url=https://www.gamegab.com/play/16561/Stickman-Archero-Fight/",
+    "target": "//html5.gamedistribution.com/rvvASMiM/3f4c166817ad4fd4b5b05d9adba22fcd/?gd_sdk_referrer_url=https://www.gamegab.com/play/16561/Stickman-Archero-Fight/",
     "image": "https://www5.minijuegosgratis.com/v3/games/thumbnails/241942_7_sq.jpg"
   },
   {
     "name": "Stumble Guys",
     "target": "https://www.stumbleguys.com/play",
     "image": "https://play-lh.googleusercontent.com/Oci7f4WR0JShbn-n5hnwubbXaMssleb2b1Dv7AMOzFFcgstIdC9kg-E3LHx3em8RCaLf",
-    "popular":true
-  },
-  {
-    "name": "Stumble Guys",
-    "target": "https://www.stumbleguys.com/play",
-    "image": "https://now.gg/iframe/snippet?app_pkg=com.kitkagames.fallbuddies&partner=skool"
+    "popular": true
   },
   {
     "name": "Subway Surfers",
@@ -538,32 +543,32 @@
   },
   {
     "name": "Vex 3",
-    "target": "https://html5.gamedistribution.com/762c932b4db74c6da0c1d101b2da8be6/?gd_sdk_referrer_url=https://gamedistribution.com/games/vex-3",
+    "target": "//html5.gamedistribution.com/rvvASMiM/762c932b4db74c6da0c1d101b2da8be6/?gd_sdk_referrer_url=https://gamedistribution.com/games/vex-3",
     "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/87/06/4e/87064e7a-c9fd-7135-6ba3-f321f013e01e/mzl.kqcjsyop.png/512x512bb.jpg"
   },
   {
     "name": "Vex 4",
-    "target": "https://html5.gamedistribution.com/80e6a5ae477f4d4fbcd1ea293d10087d/?gd_sdk_referrer_url=https://gamedistribution.com/games/vex-4",
+    "target": "//html5.gamedistribution.com/rvvASMiM/80e6a5ae477f4d4fbcd1ea293d10087d/?gd_sdk_referrer_url=https://gamedistribution.com/games/vex-4",
     "image": "https://mobimg.b-cdn.net/v2/fetch/1d/1d957ad4cb8024ec9b63d54d6c61235b.png"
   },
   {
     "name": "Vex 5",
-    "target": "https://html5.gamedistribution.com/f120262ab72743039fbce88c1f370df8/?gd_sdk_referrer_url=https://gamedistribution.com/games/vex-5",
+    "target": "//html5.gamedistribution.com/rvvASMiM/f120262ab72743039fbce88c1f370df8/?gd_sdk_referrer_url=https://gamedistribution.com/games/vex-5",
     "image": "https://img.gamedistribution.com/f120262ab72743039fbce88c1f370df8-512x512.jpeg"
   },
   {
     "name": "Vex 6",
-    "target": "https://html5.gamedistribution.com/4925e12574364121a48c61c35f649c36/?gd_sdk_referrer_url=https://gamedistribution.com/games/vex-6",
+    "target": "//html5.gamedistribution.com/rvvASMiM/4925e12574364121a48c61c35f649c36/?gd_sdk_referrer_url=https://gamedistribution.com/games/vex-6",
     "image": "/cdn/images/vex-6.png"
   },
   {
     "name": "Vex 7",
-    "target": "https://html5.gamedistribution.com/rvvASMiM/0c454c9562d249d28ba3a2b50564042c/index.html?gd_sdk_referrer_url=https%3A%2F%2Ftr.y8.com%2Fgames%2Fvex_7&key=y8&value=default&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL3RyLnk4LmNvbS9nYW1lcy92ZXhfNyIsInBhcmVudERvbWFpbiI6InRyLnk4LmNvbSIsInRvcERvbWFpbiI6InRyLnk4LmNvbSIsImhhc0ltcHJlc3Npb24iOmZhbHNlLCJsb2FkZXJFbmFibGVkIjp0cnVlLCJob3N0IjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJ2ZXJzaW9uIjoiMS41LjE2In0%253D",
+    "target": "//html5.gamedistribution.com/rvvASMiM/rvvASMiM/0c454c9562d249d28ba3a2b50564042c/index.html?gd_sdk_referrer_url=https%3A%2F%2Ftr.y8.com%2Fgames%2Fvex_7&key=y8&value=default&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL3RyLnk4LmNvbS9nYW1lcy92ZXhfNyIsInBhcmVudERvbWFpbiI6InRyLnk4LmNvbSIsInRvcERvbWFpbiI6InRyLnk4LmNvbSIsImhhc0ltcHJlc3Npb24iOmZhbHNlLCJsb2FkZXJFbmFibGVkIjp0cnVlLCJob3N0IjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJ2ZXJzaW9uIjoiMS41LjE2In0%253D",
     "image": "https://img.gamedistribution.com/0c454c9562d249d28ba3a2b50564042c-512x512.jpg"
   },
   {
     "name": "Volley Random",
-    "target": "https://html5.gamedistribution.com/b6f03bdc505e4d78a17379a5a83e206b/?gd_sdk_referrer_url=https://gamedistribution.com/games/volley-random",
+    "target": "//html5.gamedistribution.com/rvvASMiM/b6f03bdc505e4d78a17379a5a83e206b/?gd_sdk_referrer_url=https://gamedistribution.com/games/volley-random",
     "image": "https://img.gamedistribution.com/b6f03bdc505e4d78a17379a5a83e206b-512x512.jpeg"
   },
   {
@@ -693,7 +698,7 @@
   },
   {
     "name": "Tunnel Rush Mania",
-    "target": "https://html5.gamemonetize.co/2fp4sd31llh6u6vjxe1wxbx8meapsgop/",
+    "target": "//html5.gamemonetize.co/2fp4sd31llh6u6vjxe1wxbx8meapsgop/",
     "image": "https://play-lh.googleusercontent.com/tl2qr3PCg-vpzloUgjMAY9eXz9y58Gdmb77_d9RbmrWoQu8rIvj4Fn3eCurqBoWsY84"
   },
   {
@@ -845,5 +850,165 @@
     "name": "OvO Dimensions",
     "target": "https://www.miniplay.com/embed/ovo-dimensions",
     "image": "https://img.poki.com/cdn-cgi/image/quality=78,width=600,height=600,fit=cover,f=auto/76d0bf7026c6bf569a2fa96e92289484.png"
+  },
+  {
+    "name": "Ages of Conflict",
+    "target": "/cdn/3kh0/ages-of-conflict/index.html",
+    "image": "/cdn/3kh0/ages-of-conflict/splash.jpg"
+  },
+  {
+    "name": "Amazing Rope Police",
+    "target": "/cdn/3kh0/amazing-rope-police/index.html",
+    "image": "https://3kh0.github.io/images/amazing-rope.jpeg"
+  },
+  {
+    "name": "99 Balls Evo",
+    "target": "/cdn/3kh0/99balls/index.html",
+    "image": "https://3kh0.github.io/images/99-balls-evo.jpg"
+  },
+  {
+    "name": "Bad Ice Cream",
+    "target": "/cdn/3kh0/bad-ice-cream/index.html",
+    "image": "/cdn/3kh0/bad-ice-cream/bad-ice-cream.png"
+  },
+  {
+    "name": "Bad Ice Cream 2",
+    "target": "/cdn/3kh0/bad-ice-cream-2/index.html",
+    "image": "/cdn/3kh0/bad-ice-cream-2/bad-ice-cream-2.png"
+  },
+  {
+    "name": "Bad Ice Cream 3",
+    "target": "/cdn/3kh0/bad-ice-cream-3/index.html",
+    "image": "/cdn/3kh0/bad-ice-cream-3/bad-ice-cream-3.png"
+  },
+  {
+    "name": "Core Ball",
+    "target": "/cdn/3kh0/core-ball/index.html",
+    "image": "/cdn/3kh0/core-ball/pr_source.png"
+  },
+  {
+    "name": "Champion Island",
+    "target": "/cdn/3kh0/champion-island/index.html",
+    "image": "/cdn/3kh0/champion-island/splash.png"
+  },
+  {
+    "name": "Cannon Basketball 4",
+    "target": "/cdn/3kh0/cannon-basketball-4/index.html",
+    "image": "/cdn/3kh0/cannon-basketball-4/img/splash.png"
+  },
+  {
+    "name": "Paper.io",
+    "target": "https://g-class.biz/lessons/1/",
+    "image": "https://gamaddy.com/paper-io.png"
+  },
+  {
+    "name": "Slime Rush TD",
+    "target": "/cdn/3kh0/slime-rush-td/index.html",
+    "image": "/cdn/3kh0/slime-rush-td/splash.png"
+  },
+  {
+    "name": "Station 141",
+    "target": "/cdn/3kh0/station-141/index.html",
+    "image": "https://img.itch.zone/aW1nLzU4ODM5NjMucG5n/original/75wxYs.png"
+  },
+  {
+    "name": "Rolling Forests",
+    "target": "/cdn/3kh0/rolling-forests/index.html",
+    "image": "/cdn/3kh0/rolling-forests/icon.png"
+  },
+  {
+    "name": "Veloce",
+    "target": "/cdn/3kh0/veloce/index.html",
+    "image": "https://img.itch.zone/aW1nLzI1NjI0MjgucG5n/original/qN6zkD.png"
+  },
+  {
+    "name": "Polybranch",
+    "target": "/cdn/3kh0/polybranch/index.html",
+    "image": "/cdn/3kh0/polybranch/img/pic1.png"
+  },
+  {
+    "name": "Stick Archers",
+    "target": "/cdn/3kh0/stick-archers/index.html",
+    "image": "/cdn/3kh0/stick-archers/splash.jpg"
+  },
+  {
+    "name": "Soccer Skills",
+    "target": "/cdn/3kh0/soccer-skills/index.html",
+    "image": "/cdn/3kh0/soccer-skills/splash.png"
+  },
+  {
+    "name": "Stick Merge",
+    "target": "/cdn/3kh0/stick-merge/index.html",
+    "image": "/cdn/3kh0/stick-merge/splash.png"
+  },
+  {
+    "name": "Subway Surfers New York",
+    "target": "/cdn/3kh0/subway-surfers-ny/index.html",
+    "image": "/cdn/3kh0/subway-surfers-ny/NewYorkIcon.png"
+  },
+  {
+    "name": "Henry Stickmin: Escaping The Prision",
+    "target": "/cdn/3kh0/escapingtheprison/index.html",
+    "image": "/cdn/3kh0/escapingtheprison/escapingtheprison.jpg"
+  },
+  {
+    "name": "Knife Master",
+    "target": "/cdn/3kh0/knife-master/index.html",
+    "image": "/cdn/3kh0/knife-master/512x512.jpg"
+  },
+  {
+    "name": "Monster Tracks",
+    "target": "/cdn/3kh0/monster-tracks/index.html",
+    "image": "https://3kh0.github.io/images/monster-tracks.jpg"
+  },
+  {
+    "name": "Madalin Stunt Cars 2",
+    "target": "/cdn/3kh0/madalin-stunt-cars-2/index.html",
+    "image": "/cdn/3kh0/madalin-stunt-cars-2/img/logo.jpg"
+  },
+  {
+    "name": "Madalin Stunt Cars 3",
+    "target": "/cdn/3kh0/madalin-stunt-cars-3/index.html",
+    "image": "/cdn/3kh0/madalin-stunt-cars-3/img/index.jpg"
+  },
+  {
+    "name": "Henry Stickmin: Fleeing The Complex",
+    "target": "/cdn/3kh0/fleeingthecomplex/index.html",
+    "image": "https://3kh0.github.io/images/fleeing.jpeg"
+  },
+  {
+    "name": "Grey Box",
+    "target": "/cdn/3kh0/greybox/index.html",
+    "image": "/cdn/3kh0/greybox/ico.png"
+  },
+  {
+    "name": "Cars Simulator",
+    "target": "/cdn/3kh0/cars-simulator/index.html",
+    "image": "/cdn/3kh0/cars-simulator/splash.png"
+  },
+  {
+    "name": "Cell Machine",
+    "target": "/cdn/3kh0/cell-machine/index.html",
+    "image": "/cdn/3kh0/cell-machine/img/te9nDu.png"
+  },
+  {
+    "name": "Stickman Survival",
+    "target": "/cdn/3kh0/Stickman-Survival/index.html",
+    "image": "/cdn/3kh0/Stickman-Survival/Icon.png"
+  },
+  {
+    "name": "Avalanche",
+    "target": "/cdn/3kh0/avalanche/index.html",
+    "image": "/cdn/3kh0/avalanche/avalanche.png"
+  },
+  {
+    "name": "Ducklife",
+    "target": "/cdn/3kh0/ducklife1/index.html",
+    "image": "/cdn/3kh0/ducklife1/ducklife.png"
+  },
+  {
+    "name": "Ducklife 2",
+    "target": "/cdn/3kh0/ducklife2/index.html",
+    "image": "/cdn/3kh0/ducklife2/ducklife2.png"
   }
 ]

@@ -27,21 +27,26 @@
       }
     });
   </script>
-  
+
   <div class="content centered">
     <h1 style="font-size: 6vh;">Games</h1>
-
-    <h1 style="font-size: 4vh;" class="gamesectionheader">Popular</h1>
 
     <div class="popular-games">
     </div>
 
-    <h1 style="font-size: 4vh;" class="gamesectionheader">All Games</h1>
+    <h1 style="font-size: 4vh;" class="gamesectionheader">All Games <small style="font-size: 2vh;">(200+ 🎉)</small></h1>
 
-    <input type="text" id="searchInput" placeholder="Search Games">
+    <div class="search">
+      <input type="text" id="searchInput" placeholder="Search Games">
+
+      <select id="searchSort">
+        <option value="none" selected>Don't Sort</option>
+        <option value="newest">Newest</option>
+        <option value="abc">Alphabetical</option>
+      </select>
+    </div>
 
     <!--el:ad_horizontal-->
-
 
     <div class="games">
     </div>
